@@ -1,1 +1,1 @@
-print("aa feature stats")
+print("aa feature min");
