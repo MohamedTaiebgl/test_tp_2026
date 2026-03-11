@@ -1,1 +1,1 @@
-aa
+print("aa")
